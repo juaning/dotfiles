@@ -1,1 +1,2 @@
-
+# Alias for heroku deployment
+alias hkpub='git push heroku master'     # Heroku deployment
